@@ -1,4 +1,4 @@
-py-mmap
+py-mmap (still a work in progress)
 =======
 py-mmap is an abstraction layer built on top of Python's built-in mmap module. In many ways, this project is inspired by the mmap-go package. which can be found [here](https://github.com/edsrzf/mmap-go)
 
