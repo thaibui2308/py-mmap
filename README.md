@@ -9,4 +9,4 @@ Providing a simple and portable interface, py-mmap doesn't go out of its way to 
 
 Developer Notes
 =======
-For more information about its internal implementation, please take a look at [utils.py] and [py-mmap.py] and also keep in mind that this module is a Python version of the mmap-go package.
+For more information about its internal implementation, please take a look at [utils.py](https://github.com/thaibui2308/py-mmap/blob/main/utils.py) and [py-mmap.py](https://github.com/thaibui2308/py-mmap/blob/main/utils.py) and also keep in mind that this module is a Python version of the mmap-go package.
