@@ -1,0 +1,5 @@
+Set the file’s current position. whence argument is optional 
+and defaults to os.SEEK_SET or 0 (absolute file positioning); 
+other values are os.SEEK_CUR or 1 (seek relative to the current position) 
+and os.SEEK_END or 2 (seek relative to the file’s end).
+Hello world!
